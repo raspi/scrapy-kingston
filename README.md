@@ -15,7 +15,7 @@ Web crawler for Kingston ([kingston.com](https://kingston.com))
 
 All items are downloaded as JSON in the `items/` directory.
 
-### Memory modules for certain manufacturer's all motherboards
+### Memory modules for all motherboards from certain manufacturer
 
 For example all motherboard memory modules from Supermicro's motherboards:
 
